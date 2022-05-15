@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**jacobhenn/jacobhenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- i'm proficient in
+    - Rust
+    - Haskell
+    - Linux
+    - toki pona
+- i like making
+    - command-line utilities
+    - TUI programs
+    - parsers
+    - stuff involving math
+- stuff i use that you may not have heard of
+    - [kakoune](https://github.com/mawww/kakoune)
+    - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
+    - [ufetch](https://gitlab.com/jschx/ufetch)
+    - [leftwm](https://github.com/leftwm/leftwm)
+    - [workman](https://github.com/workman-layout/Workman)
