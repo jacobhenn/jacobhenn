@@ -1,3 +1,5 @@
+> All subjects intending to handle high-energy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues. No further compliance information is required, or will be provided, and you are an excellent test subject!
+
 - i'm proficient in
     - Rust
     - Haskell
@@ -9,7 +11,7 @@
     - parsers
     - stuff involving math
 - stuff i use that you may not have heard of
-    - [kakoune](https://github.com/mawww/kakoune)
+    - [helix](https://helix-editor.com)
     - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
     - [ufetch](https://gitlab.com/jschx/ufetch)
     - [leftwm](https://github.com/leftwm/leftwm)
