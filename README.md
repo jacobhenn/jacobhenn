@@ -1,6 +1,7 @@
 > All subjects intending to handle high-energy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues. No further compliance information is required, or will be provided, and you are an excellent test subject!
 
 - i'm proficient in
+    - type theory
     - Rust
     - Haskell
     - Linux
